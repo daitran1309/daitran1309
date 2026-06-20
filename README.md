@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-* 💻 I am a developer from Vietnam 🇻🇳
+
 * 🚀 Currently learning Web 
   
 
