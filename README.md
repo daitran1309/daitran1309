@@ -13,14 +13,14 @@
   />
 </p>
 
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitran1309&layout=compact&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=6&cache_seconds=0" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitran1309&layout=compact&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=10&cache_seconds=0" 
     height="165"
     style="border-radius:10px;"
   />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
