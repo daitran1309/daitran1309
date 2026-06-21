@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 
-* 🚀 Currently learning Web 
+* 🚀 Learning to become a developer
   
 
 ---
