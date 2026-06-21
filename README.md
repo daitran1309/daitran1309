@@ -1,14 +1,25 @@
 # 👋 Hi, I'm Dai Tran
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daitran1309&show_icons=true&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" />
-  <img src="https://streak-stats.demolab.com?user=daitran1309&theme=radical&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=daitran1309&show_icons=true&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&cache_seconds=0" 
+    height="165"
+    style="border-radius:10px;"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=daitran1309&theme=radical&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&cache_seconds=0" 
+    height="165"
+    style="border-radius:10px;"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitran1309&layout=compact&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitran1309&layout=compact&theme=radical&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=6&cache_seconds=0" 
+    height="165"
+    style="border-radius:10px;"
+  />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
