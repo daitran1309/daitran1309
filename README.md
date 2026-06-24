@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 * 🏫 **University:** Ho Chi Minh City University of Technology and Engineering
-* <img width="21" height="21" alt="image" src="https://github.com/user-attachments/assets/421b6e09-176f-48ac-8568-7dc715696438" /> **Faculty:** Information Technology
+* <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/421b6e09-176f-48ac-8568-7dc715696438" /> **Faculty:** Information Technology
 * 🎓 **Major:** Information Technology
 * 🚀 Learning to become a developer
 
