@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dai Tran
+👋 Hi, I'm Dai Tran
 
 <p align="center">
   <img 
@@ -24,9 +24,12 @@
 ---
 
 ## 👨‍💻 About Me
-
-
+* 🏫 **University:** Ho Chi Minh City University of Technology and Engineering
+* <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/421b6e09-176f-48ac-8568-7dc715696438" /> **Faculty:** Information Technology
+* 🎓 **Major:** Information Technology
 * 🚀 Learning to become a developer
+
+
   
 
 ---
