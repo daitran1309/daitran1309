@@ -24,8 +24,11 @@
 ---
 
 ## 👨‍💻 About Me
-* 🏫 **University:** Ho Chi Minh City University of Technology and Engineering
-* <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/421b6e09-176f-48ac-8568-7dc715696438" /> **Faculty:** Information Technology
+* <img src="https://tracuuxettuyen.hcmute.edu.vn/assets/img/logo/ute_logo.png"
+     width="20" height="20"
+     style="vertical-align: -10px;">
+<span> **University:** Ho Chi Minh City University of Technology and Engineering</span>
+* <img width="20" height="20" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwq1C96tjB-wUX2w8uEfgjhELFKVeQuuYzQA&s" /> **Faculty:** Information Technology
 * 🎓 **Major:** Information Technology
 * 🚀 Learning to become a developer
 
